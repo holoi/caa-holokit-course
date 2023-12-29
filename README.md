@@ -1,6 +1,5 @@
 # Design New Realities
 
-Course Description:
 "Design New Realities" is an innovative and practical course offered at the China Academy of Art.
 This course aims to equip students with the necessary knowledge and skills to create immersive stereoscopic mixed reality experiences using the iPhone and HoloKit. HoloKit team has been invited by the China Academy of Art to deliver a course centered around the utilization of HoloKit. By utilizing HoloKit as an alternative to expensive equipment like HoloLens, students are provided with an affordable and accessible solution for rapidly prototyping their mixed reality ideas. Through a combination of theoretical instruction, hands-on exercises, and practical tactics, students will develop the ability to design captivating mixed reality concepts, explore the intricacies of the design process, optimize workflows for efficient prototyping, and proficiently document their works.
 
