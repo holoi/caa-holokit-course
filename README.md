@@ -4,6 +4,10 @@ This repo provides some resources of the HoloKit AR course at China Academy of A
 
 - [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk)
 
+## Bibcam Plus
+
+- [Bibcam Plus](https://github.com/holoi/bibcam-plus)
+
 
 ## Workshop
 
